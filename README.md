@@ -31,13 +31,13 @@ Play against a friend in two-player mode. The first to align three marks (X or O
 ---
 
 ##  Live Demo
-2. You can play the game here:
- ```bash
+2. You can play the game here
      git clone https://github.com/Haritha790/tic-tac-toe.git
-
----
+    
 
 ## 🤝 Contributing
 
 3. Feel free to fork this repo, raise issues, and submit PRs.
 Suggestions and improvements are always welcome!
+
+
