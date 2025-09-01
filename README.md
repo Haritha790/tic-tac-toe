@@ -24,7 +24,7 @@ Play against a friend in two-player mode. The first to align three marks (X or O
 ## 🚀 How to Play
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Haritha790/tic-tac-toe.git
   cd tic-tac-toe
 
 
@@ -33,4 +33,4 @@ Play against a friend in two-player mode. The first to align three marks (X or O
 ##Live Demo
 You can play the game here:
  ```bash
-     git clone https://github.com/your-username/tic-tac-toe.git
+     git clone https://github.com/Haritha790/tic-tac-toe.git
